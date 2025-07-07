@@ -32,3 +32,9 @@
   display: none;
   color: #007bff;
 }
+
+.underline-bold {
+  text-decoration: underline;
+  text-decoration-skip-ink: none;
+  font-weight: bold;
+}
