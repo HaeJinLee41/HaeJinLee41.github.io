@@ -415,7 +415,7 @@ ninja.data = [{
           title: 'I gave a talk on “Human-centered explainable AI to support metacognitive strategies in...',
           description: "",
           section: "News",},{id: "news-excited-to-share-that-our-paper-teacher-characteristics-shape-engagement-and-outcomes-in-online-professional-learning-environments-was-accepted-as-a-full-paper-at-lak-2026",
-          title: 'Excited to share that our paper, [Teacher Characteristics Shape Engagement and Outcomes in...',
+          title: 'Excited to share that our paper, Teacher Characteristics Shape Engagement and Outcomes in...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
