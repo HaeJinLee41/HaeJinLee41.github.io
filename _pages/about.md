@@ -25,7 +25,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I'm a PhD candidate in Information Sciences at the University of Illinois at Urbana-Champaign (UIUC), where I'm advised by 
+Hello! I am a Postdoctoral Research Fellow in Human-Centred Educational Data Science in the School of Computer Science at the University of Sydney, working with [Kalina Yacef](https://profiles.sydney.edu.au/kalina.yacef).
+
+I received my Ph.D in Information Sciences from the University of Illinois at Urbana-Champaign (UIUC), where I was advised by 
 [Nigel Bosch](https://pnigel.com/) and [Jana Diesner](https://www.gov.sot.tum.de/hcc/home/). 
 
 I study how AI can be leveraged to help people become better self-regulated learners, such as by developing the ability to think critically about their own learning process and applying metacognitive strategies. 
