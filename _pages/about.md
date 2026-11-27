@@ -31,7 +31,7 @@ I received my Ph.D in Information Sciences from the University of Illinois at Ur
 [Nigel Bosch](https://pnigel.com/) and [Jana Diesner](https://www.gov.sot.tum.de/hcc/home/). 
 
 
-My research sits at the intersection of human–computer interaction (HCI), eXplainable artificial intelligence (XAI) in education, and the learning sciences. I study how AI can help people think and learn. Specifically, my work focuses on supporting metacognitive engagement by helping people reflect on and regulate their own thinking and learning across various contexts, including STEM education, writing with generative AI, and professional learning. Through my interdisciplinary work, I examine how people interact with and perceive AI-driven learning systems, particularly interactive systems that use XAI to communicate the reasoning behind their learning recommendations. 
+My research sits at the intersection of human–computer interaction (HCI), eXplainable artificial intelligence (XAI) in education, and the learning sciences. I study how AI can help people think and learn. Specifically, my work focuses on supporting metacognitive engagement by helping people reflect on and regulate their own thinking and learning across various contexts, including STEM education, writing with generative AI, and professional learning. Through my interdisciplinary work, I examine how people interact with and perceive AI-driven learning systems, particularly interactive systems that use XAI to communicate the reasoning behind their learning recommendations.  
 
 I approach this work through three complementary research goals: 
            
